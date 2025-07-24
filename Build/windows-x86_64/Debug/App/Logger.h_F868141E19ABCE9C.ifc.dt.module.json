@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "..\\Build\\windows-x86_64\\Debug\\App\\Logger.obj",
+            "outputs": [
+                "..\\Build\\windows-x86_64\\Debug\\App\\Logger.h_F868141E19ABCE9C.ifc.dt.module.json",
+                "..\\Build\\windows-x86_64\\Debug\\App\\Logger.h_F868141E19ABCE9C.ifc.dt.d.json",
+                "..\\Build\\windows-x86_64\\Debug\\App\\Logger.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Files\\Projects\\C++\\ChatApp\\App\\Logger.h",
+                    "source-path": "c:\\files\\projects\\c++\\chatapp\\app\\logger.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

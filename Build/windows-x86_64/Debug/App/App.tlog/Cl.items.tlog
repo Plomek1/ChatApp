@@ -1,0 +1,14 @@
+C:\Files\Projects\C++\ChatApp\App\include\imgui\backends\imgui_impl_dx12.cpp;C:\Files\Projects\C++\ChatApp\Build\windows-x86_64\Debug\App\imgui_impl_dx12.obj
+C:\Files\Projects\C++\ChatApp\App\include\imgui\backends\imgui_impl_win32.cpp;C:\Files\Projects\C++\ChatApp\Build\windows-x86_64\Debug\App\imgui_impl_win32.obj
+C:\Files\Projects\C++\ChatApp\App\include\imgui\imgui.cpp;C:\Files\Projects\C++\ChatApp\Build\windows-x86_64\Debug\App\imgui.obj
+C:\Files\Projects\C++\ChatApp\App\include\imgui\imgui_demo.cpp;C:\Files\Projects\C++\ChatApp\Build\windows-x86_64\Debug\App\imgui_demo.obj
+C:\Files\Projects\C++\ChatApp\App\include\imgui\imgui_draw.cpp;C:\Files\Projects\C++\ChatApp\Build\windows-x86_64\Debug\App\imgui_draw.obj
+C:\Files\Projects\C++\ChatApp\App\include\imgui\imgui_tables.cpp;C:\Files\Projects\C++\ChatApp\Build\windows-x86_64\Debug\App\imgui_tables.obj
+C:\Files\Projects\C++\ChatApp\App\include\imgui\imgui_widgets.cpp;C:\Files\Projects\C++\ChatApp\Build\windows-x86_64\Debug\App\imgui_widgets.obj
+C:\Files\Projects\C++\ChatApp\App\src\App.cpp;C:\Files\Projects\C++\ChatApp\Build\windows-x86_64\Debug\App\App.obj
+C:\Files\Projects\C++\ChatApp\App\src\UI\ConversationMenu.cpp;C:\Files\Projects\C++\ChatApp\Build\windows-x86_64\Debug\App\ConversationMenu.obj
+C:\Files\Projects\C++\ChatApp\App\src\UI\IUIElement.cpp;C:\Files\Projects\C++\ChatApp\Build\windows-x86_64\Debug\App\IUIElement.obj
+C:\Files\Projects\C++\ChatApp\App\src\UI\IUIElement.h;C:\Files\Projects\C++\ChatApp\Build\windows-x86_64\Debug\App\IUIElement.h.obj
+C:\Files\Projects\C++\ChatApp\App\src\main.cpp;C:\Files\Projects\C++\ChatApp\Build\windows-x86_64\Debug\App\main.obj
+C:\Files\Projects\C++\ChatApp\App\src\UI\ConversationMenu\MessageEditor.cpp;C:\Files\Projects\C++\ChatApp\Build\windows-x86_64\Debug\App\MessageEditor.obj
+C:\Files\Projects\C++\ChatApp\App\src\Window.cpp;C:\Files\Projects\C++\ChatApp\Build\windows-x86_64\Debug\App\Window.obj
