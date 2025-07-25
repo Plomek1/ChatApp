@@ -1,9 +1,9 @@
-#include "ConversationMenu.h"
+#include "UI/ConversationMenu.h"
 
 #include <imgui/imgui.h>
 
-#include "ConversationMenu/ConversationDisplay.h"
-#include "ConversationMenu/MessageEditor.h"
+#include "UI/ConversationMenu/ConversationDisplay.h"
+#include "UI/ConversationMenu/MessageEditor.h"
 
 
 void ConversationMenu::Render()

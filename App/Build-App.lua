@@ -11,12 +11,14 @@ project "App"
         "src/**.cpp",
         "include/**.h",
         "include/**.cpp",
+        "libs/**.h",
+        "libs/**.cpp",
     }
 
     includedirs
     {
-        "src",
-        "include"
+        "include",
+        "libs"
     }
 
     links

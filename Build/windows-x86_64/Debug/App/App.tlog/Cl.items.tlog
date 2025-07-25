@@ -6,6 +6,7 @@ C:\Files\Projects\C++\ChatApp\App\include\imgui\imgui_draw.cpp;C:\Files\Projects
 C:\Files\Projects\C++\ChatApp\App\include\imgui\imgui_tables.cpp;C:\Files\Projects\C++\ChatApp\Build\windows-x86_64\Debug\App\imgui_tables.obj
 C:\Files\Projects\C++\ChatApp\App\include\imgui\imgui_widgets.cpp;C:\Files\Projects\C++\ChatApp\Build\windows-x86_64\Debug\App\imgui_widgets.obj
 C:\Files\Projects\C++\ChatApp\App\src\App.cpp;C:\Files\Projects\C++\ChatApp\Build\windows-x86_64\Debug\App\App.obj
+C:\Files\Projects\C++\ChatApp\App\src\Globals.cpp;C:\Files\Projects\C++\ChatApp\Build\windows-x86_64\Debug\App\Globals.obj
 C:\Files\Projects\C++\ChatApp\App\src\UI\ConversationMenu.cpp;C:\Files\Projects\C++\ChatApp\Build\windows-x86_64\Debug\App\ConversationMenu.obj
 C:\Files\Projects\C++\ChatApp\App\src\UI\IUIElement.cpp;C:\Files\Projects\C++\ChatApp\Build\windows-x86_64\Debug\App\IUIElement.obj
 C:\Files\Projects\C++\ChatApp\App\src\UI\IUIElement.h;C:\Files\Projects\C++\ChatApp\Build\windows-x86_64\Debug\App\IUIElement.h.obj

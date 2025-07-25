@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "..\\Build\\windows-x86_64\\Debug\\App\\IUIElement.obj",
+            "outputs": [
+                "..\\Build\\windows-x86_64\\Debug\\App\\IUIElement.h_7CE8F0E3B9519DE9.ifc.dt.module.json",
+                "..\\Build\\windows-x86_64\\Debug\\App\\IUIElement.h_7CE8F0E3B9519DE9.ifc.dt.d.json",
+                "..\\Build\\windows-x86_64\\Debug\\App\\IUIElement.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Files\\Projects\\C++\\ChatApp\\App\\include\\UI\\IUIElement.h",
+                    "source-path": "c:\\files\\projects\\c++\\chatapp\\app\\include\\ui\\iuielement.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,4 +1,6 @@
-#include "IUIElement.h"
+#include "UI/IUIElement.h"
+
+#include <imgui/imgui.h>
 
 #include "Logger.h"
 
@@ -35,3 +37,6 @@ void IUIElement::Render()
     for (size_t i = 0; i < children.size(); i++)
         children[i]->Render();
 }
+
+void IUIElement::LoadStyle() {}; 
+void IUIElement::UnloadStyle() {};

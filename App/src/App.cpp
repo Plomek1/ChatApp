@@ -8,7 +8,9 @@
 void App::Run()
 {
 	Window window;
+
 	ConversationMenu conversationMenu;
 	window.AddUICallback(&conversationMenu);
-	window.DrawWindow();
+	
+	window.StartDrawLoop();
 }
